@@ -66,7 +66,7 @@ JPHES Functionalities
 * Reports (standard reports), Data Visualization, Data Entry and Pivot tables analysis.
 
 
-JPRP Hierarchy
+JPHES Hierarchy
 ----------------
 
 National Unit Level
