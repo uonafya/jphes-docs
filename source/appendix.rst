@@ -5,5 +5,4 @@ Appendix 1: References
 
 2. `The DHIS2 Implementer Guide <https://www.dhis2.org/doc/snapshot/en/implementer/html/dhis2_implementation_guide_en.html>`_
 
-3. `The Consistency and Concurrency Between the Kenya HIV/AIDS Program Monitoring System (KePMs) and the National Reporting
-    System (DHIS2), 2012 <http://www.jhia-online.org/index.php/jhia/article/view/56/44>`_
+3. `The Consistency and Concurrency Between the KePMS and DHIS2 <http://www.jhia-online.org/index.php/jhia/article/view/56/44>`_

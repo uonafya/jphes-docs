@@ -6,8 +6,7 @@ System Access
 Access *JPHES* via `http://jphesportal.uonbi.ac.ke <http://jphesportal.uonbi.ac.ke>`_ .
 To login to the platform, provide your username and password then click the login button.
 
-.. note:: If you have challenges signing in, send an email to jphes@healthit.uonbi.ac.ke for assistance or via
-the jphes servicedesk
+.. note:: If you have challenges signing in, send an email to jphes@healthit.uonbi.ac.ke for assistance or via the jphes servicedesk
 
 .. _login_page:
 .. figure::  _static/images/jphes-login-page.png
@@ -23,6 +22,12 @@ If successful, it directs you to the JPHES dashboard.
 
 Fig.- Landing page
 
+To change password, click on the user profile app.
+
+.. figure::  _static/images/jphes-user-changepassword.png
+   :align:   center
+
+Fig.- Change User password
 
 JPHES/DHIS2 Applications
 --------------------------
@@ -68,6 +73,9 @@ JPHES Functionalities
 
 JPHES Hierarchy
 ----------------
+
+
+Fig. Hierarchy Units
 
 National Unit Level
 ++++++++++++++++++++
