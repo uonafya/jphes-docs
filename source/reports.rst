@@ -32,7 +32,7 @@ There are two main types of reports than can be generated from JPHES; Dataset Re
 
 
 Dataset Reports
-~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~
 Dataset reports are printer friendly views of the data entry screen filled with either raw or aggregated data. These are only available for
 data sets that have custom data entry forms and not for default or section forms.
 You can access data set reports from *Apps->Reports*.
