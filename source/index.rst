@@ -13,6 +13,7 @@ Welcome to JPHES's documentation!
    introduction
    abbreviations
    getstarted
+   indicators
    programs
    hierarchy
    datasets
