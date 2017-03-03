@@ -85,7 +85,7 @@ National Unit Level
 * Assign Programs to a Development Partner.
 * View a list of the development partners.
 * View details of each development partner such as the programs assigned and the agencies supported by the development partner.In addition, can drill down to the lowest level(mechansim).
-* Create, view and update users for this specific level.
+* Analysis and reports for all units(Donor, Agency, and Mechanism).
 
 Donor Unit LeveL
 ++++++++++++++++++
@@ -94,6 +94,7 @@ Donor Unit LeveL
 * View a list of the agencies.
 * View details of each agency: the programs assigned to the agency and the Implementing mechanisms the agency is supporting.
 * Create, view and update users for this specific level.
+* Analysis and reports for donor unit->agency units->mechanism units.
 
 
 Agency Unit Level
@@ -103,12 +104,12 @@ Agency Unit Level
 * Assign programs to an Implementing mechanism.
 * View the list of the Implementing mechanisms.
 * View details of each IM: the programs supported and the facilities under the Implementing Mechanism.
-* Create, view and update users for this specific level.
+* Analysis and reports for the agency unit->mechanism units.
 
 Mechanism Unit Level
 +++++++++++++++++++++++
 
 * View a list of all facilities supported by the Implementing mechanism.
 * View a list of the programs supported by the IM.
-* Create, View and Update JPRP user roles based on authorities at this level.
-* Create, view and update users for this specific level.
+* Data Entry and approval
+* Analysis and reports for the mechanism unit.
