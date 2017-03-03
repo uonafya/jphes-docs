@@ -96,3 +96,30 @@ Water and Sanitation indicators
 Training
 --------------
 Training indicators
+
+.. csv-table:: Training
+    :header: "#", "Indicator Name", "Reporting Level", "DHIS2 Reference", "Indicator Calculation"
+    :widths: 2,10, 5, 5, 5
+
+    "1","Number of people trained in malaria treatment or prevention","Sub-County","None","None"
+    "2","Number of people trained in Malaria monitoring and evaluation with USG assistance","Sub-County","None","None"
+    "3","Number of people trained in maternal and/or newborn health and nutrition care through USG-supported program","Sub-County","None","None"
+    "4","Number of people trained in child health care and nutrition through USG-supported health area programs ","Sub-County","None","None"
+    "5","Number of people trained in Maternal and Child Health monitoring and evaluation with USG assistance","Sub-County","None","None"
+    "6","Number of people trained in FP/RH  with USG funds","Sub-County","None","None"
+    "7","Number of people trained in Family Planning and Reproductive Health monitoring and evaluation with USG assistance","Sub-County","None","None"
+    "8","Number of individuals trained to implement improved sanitation methods","Sub-County","None","None"
+    "9","Nutrition: Number of Community health workers trained in child health and/or nutrition","Sub-County","None","None"
+    "10","H2.1D: Number of new health care workers who graduated from a pre‐service training institution ","Sub-County","None","None"
+    "11","Custom: Total number of CHWs trained in family planning counselling services through USG supported programs","Sub-County","None","None"
+    "12","Custom: Total number of health workers trained in commodity management through USG supported programs","Sub-County","None","None"
+    "13","MCH-Custom: Number of health service providers trained in maternal and/or newborn health and nutrition care through USG supported program","Sub-County","None","None"
+    "14","MCH-Custom: Total number of Community Health Workers (CHWs) trained in maternal and/or newborn health through USG supported programs","Sub-County","None","None"
+    "15","FPRH-Custom: Total number of health workers trained in FP/RH through in-service training","Sub-County","None","None"
+    "16","Malaria-Number of health workers trained in malaria laboratory diagnostics (rapid diagnostic tests (RDTs) or microscopy) with USG funds","Sub-County","None","None"
+    "17","Malaria-Number of people trained with USG funds to deliver indoor residual spraying (IRS)","Sub-County","None","None"
+    "18","Malaria-Number of health workers trained in intermittent preventive treatment in pregnancy( IPTp) with USG funds","Sub-County","None","None"
+    "19","H2.2.D: Number of community health and para‐social workers who successfully completed a pre‐service training program","Sub-County","None","None"
+    "20","H2.3.DMC: Number of health care workers who successfully completed an in‐service training program Male Circumcision","Sub-County","None","None"
+    "21","H2.3.DPT: Number of health care workers who successfully completed an in‐service training program Pediatric Treatment","Sub-County","None","None"
+    "22","H2.3.D: Number of health care workers who successfully completed an in‐service training program TOTAL","Sub-County","None","None"
