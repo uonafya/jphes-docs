@@ -23,8 +23,8 @@ County Level
 
 Sub-County Level
 -----------------
-Sub-County Performance
-Training Performance
+* Sub-County Performance
+* Training Performance
 
 Ward Level
 ----------
