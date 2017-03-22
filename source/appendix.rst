@@ -17,3 +17,4 @@ Presentations and Other Resources
 ==================================
 
 1. `PHES-Data Management (Panafric Presentation) 10/02/2017 <_static/resources/PHES-Data-Management.pptx>`_
+2. `PHES Resources (23-24) March 2017 Training (Panafric Presentation) 10/02/2017  <_static/resources/PHES_Resources_23_03_2017.zip>`_
