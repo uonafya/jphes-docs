@@ -10,7 +10,7 @@ System References
 
 3. `The Consistency and Concurrency Between the KePMS and DHIS2 <http://www.jhia-online.org/index.php/jhia/article/view/56/44>`_
 
-4. _`JPHES Core Source Code <https://github.com/uonafya/jphes-core>`_
+4. `JPHES Core Source Code <https://github.com/uonafya/jphes-core>`_
 
 
 Reporting Guidelines
