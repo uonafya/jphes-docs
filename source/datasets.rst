@@ -5,21 +5,21 @@ JPHES contains the following datasets, categorized here by their level of report
 National/Mechanism Level
 --------------------------
 * National Performance
+* Family Planning and Reproductive Health Narrative
+* Maternal and Child Health Narrative
+* Nutrition Narrative
+* WASH Narrative
+* Training Narrative
+* Malaria Narrative
 
 County Level
 -------------
 * County Performance
 * Family Planning and Reproductive Health Target
-* Family Planning and Reproductive Health Narrative
-* Malaria Narrative
 * Malaria Target
-* Maternal and Child Health Narrative
 * Maternal and Child Health Target
-* Nutrition Narrative
 * Nutrition Target
 * WASH Target
-* WASH Narrative
-* Training Narrative
 
 Sub-County Level
 -----------------
