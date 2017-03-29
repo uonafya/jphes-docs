@@ -16,7 +16,7 @@ System References
 Reporting Guidelines
 ---------------------
 
-1. `Indicator Narrative Revised 2017 <_static/resources/PPR17-indicator-narrative_mapping.xlsx>`_
+1. `Indicator Narrative Revised 2017 <https://docs.google.com/spreadsheets/d/1JKF5EyGLtTqIKKlYB3kQbANr4Sp3dtL4ZZ1PDaqlHkM/edit?usp=sharing>`_
 
 Presentations and Other Resources
 -----------------------------------
