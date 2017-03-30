@@ -41,6 +41,14 @@ Available applications in the platform.
 
 Fig.- Apps page 1
 
+**Custom JPHES Apps**
+
+* JPHES Hirerachy - For creating and maintaining the attribution hierarchy.
+* JPHES Programs - For grouping data elements and indicators.
+* JPHES Support - Redirects to the `JPHES Servicedesk page <https://jphes-support.on.spiceworks.com/portal/>`_.
+* JPHES Documentation - Redirects to the JPHES documentations.
+* JPHES Homepage - Redirects to the `JPHES Homepage <http://jphes.uonbi.ac.ke>`_
+
 .. _apps_page2:
 .. figure::  _static/images/jphes-apps2.png
    :align:   center
