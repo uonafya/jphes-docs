@@ -19,6 +19,7 @@ Welcome to JPHES's documentation!
    datasets
    dataentry
    reports
+   support
    appendix
 
 
