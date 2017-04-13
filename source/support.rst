@@ -25,7 +25,8 @@ To create a ticket on the portal, you'll have to login.
 
 * To login simply enter your email address **(preferably work emailaddress)**, and click on the submit button.
 * A login link will be sent to your email address.
-* Login to your email, and open the email from *JPHES Support*, insided the mail sent click on the link to login to the portal.
+* Login to your email, and open the email from *JPHES Support* (inside the mail sent).
+* Click on the link to login to the portal.
 * It will redirect you to the JPHES Support page.
 
 .. figure::  _static/images/jphes-spiceworks-login-link.png
