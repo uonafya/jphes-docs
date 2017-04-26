@@ -23,3 +23,7 @@ Presentations and Other Resources
 
 1. `PHES-Data Management (Panafric Presentation) 10/02/2017 <_static/resources/PHES-Data-Management.pptx>`_
 2. `PHES Resources (23-24) March 2017 Training <_static/resources/PHES_Resources_23_03_2017.zip>`_
+
+PPR17 Reporting Status
+------------------------
+- `JPHES PRR17 Reporting Status <http://jphesportal.uonbi.ac.ke/api/sqlViews/PsJ9pD3p5zw/data.html+css>`_
