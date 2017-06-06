@@ -10,7 +10,7 @@ This navigates to the data entry page, as shown on the figure below. For data en
 organization unit/facility you are reporting for on the left panel, the dataset, reporting period and the implementing partner you are
 reporting for, which comes up after selecting the *organization unit*, *Dataset* and *period* that the user is reporting for.
 
-.. image:: _static/images/jphes-dataentry.png
+.. image:: _static/images/jphes-dataentry-attribution.png
 
 Data Entry Forms
 ----------------
@@ -36,7 +36,7 @@ Wash Performance Dataset
 
 County Performance Datasets
 
-.. image:: _static/images/jphes-dataentry-county.png
+.. image:: _static/images/jphes-dataentry-attribution.png
 
 4. National Level
 -----------------
