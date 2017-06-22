@@ -28,3 +28,10 @@ Presentations and Other Resources
 PPR17 Reporting Status
 ------------------------
 - `JPHES PRR17 Reporting Status <http://jphesportal.uonbi.ac.ke/api/sqlViews/PsJ9pD3p5zw/data.html+css>`_
+
+IPSL 
+---------
+
+- `IPSL (May 2017) <https://jphesportal.uonbi.ac.ke/api/sqlViews/OmFVlTZfHTm/data.html+css>`_
+
+
