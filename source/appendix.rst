@@ -16,8 +16,9 @@ System References
 Reporting Guidelines
 ---------------------
 
-1. `Indicator Narrative Revised 2017 <https://docs.google.com/spreadsheets/d/1JKF5EyGLtTqIKKlYB3kQbANr4Sp3dtL4ZZ1PDaqlHkM/edit?usp=sharing>`_
-
+1. `Indicator Narrative Revised (23 March 2017) <https://docs.google.com/spreadsheets/d/1JKF5EyGLtTqIKKlYB3kQbANr4Sp3dtL4ZZ1PDaqlHkM/pubhtml>`_
+2. `Indicator Narrative Additional Indicators (May 2017) < https://docs.google.com/spreadsheets/u/1/d/1H5mC78PS0zCzWe0y-jQF5D7T1Aqr_4VtnSiln-cvBys/pubhtml
+>`_                                         
 Presentations and Other Resources
 -----------------------------------
 
