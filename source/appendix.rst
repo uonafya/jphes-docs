@@ -17,7 +17,9 @@ Reporting Guidelines
 ---------------------
 
 1. `Indicator Narrative Revised (23 March 2017) <https://docs.google.com/spreadsheets/d/1JKF5EyGLtTqIKKlYB3kQbANr4Sp3dtL4ZZ1PDaqlHkM/pubhtml>`_
-2. `Indicator Narrative Additional Indicators (May 2017) <https://docs.google.com/spreadsheets/d/1H5mC78PS0zCzWe0y-jQF5D7T1Aqr_4VtnSiln-cvBys/pubhtml>`_ 
+2. `New Indicators Narrative - (Summarized May 2017) <https://docs.google.com/spreadsheets/d/1H5mC78PS0zCzWe0y-jQF5D7T1Aqr_4VtnSiln-cvBys/pubhtml>`_ 
+3. `New Indicators Narrative (Detailed May 2017) <_static/resources/Additional_Indicator_Narratives_23-06-2017.zip>`_ 
+
 
 Presentations and Other Resources
 -----------------------------------
