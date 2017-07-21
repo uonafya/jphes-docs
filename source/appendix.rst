@@ -38,7 +38,7 @@ PPR17(Q3) Reporting Status
 IPSL 
 ---------
 
-- `IPSL (July 2017) <https://jphesportal.uonbi.ac.ke/api/sqlViews/OmFVlTZfHTm/data.html+css>`_
-- _`IPSL (July 2017) <_static/resources/IPSL_21_july-2017.csv>`_
+- `IPSL (July 2017)- HTML Report <https://jphesportal.uonbi.ac.ke/api/sqlViews/OmFVlTZfHTm/data.html+css>`_
+- `IPSL (July 2017)- CSV <_static/resources/IPSL_21_july-2017.csv>`_
 
 
