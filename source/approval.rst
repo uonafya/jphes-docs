@@ -2,7 +2,7 @@ Data Approval
 ==============
 How to Approve data
 ---------------------
-1. On the search menu select the reports App, then click on the data approval side menu.
+1. On the search menu select the reports App, then click on the *Data Approval* link on the side menu.
 
 .. note:: Only CoPs have approval permissions in the platform.
 
@@ -13,7 +13,7 @@ Fig -Data Approval Page.
 
 2. Select a data set to approve, the period(based on the reporting period of the data set) and then Kenya(Represents Mechanism level).
 
-.. note:: If the **organisation unit hierarchy tree** doesn't appear on the data approval page. Go to **data entry app** and search for any facility on the search menu. Once the hierarchy appears on the data entry screen go back to data approval page, and the hierarchy should appear. *It's an issue of browser caching, to be fixed soon*. 
+.. note:: If the **reporting organisationunit hierarchy** does not appear on the data approval page. Navigate to **data entry app** and search for any facility on the search menu. Once the hierarchy appears on the data entry screen go back to data approval page, and the hierarchy should appear. *It's an issue of browser caching, to be fixed soon*. 
 
 .. figure::  _static/images/jphes-select-dimensions-approval.png
    :align:   center
@@ -34,4 +34,4 @@ Fig -Selecting mechanism on the pop-up menu.
 
 Fig -Data Set report to approve.
 
-.. note:: Once a Data Set is approved no updates can be done on the data.
+.. note:: Once a data set report for a specified period is approved no updates can be done on the data. To make updates the data set report should be unapproved first.
