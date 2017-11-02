@@ -13,6 +13,8 @@ Fig -Data Approval Page.
 
 2. Select a data set to approve, the period(based on the reporting period of the data set) and then Kenya(Represents Mechanism level).
 
+.. note:: If the organisation unit hierarchy tree doesn't appear on the data approval page, go to data entry screen and search for any facility on the search menu. Once the hierarchy appears on the data entry screen go back to data approval page, and the hierarchy should appear. It's an issue of browser caching. 
+
 .. figure::  _static/images/jphes-select-dimensions-approval.png
    :align:   center
 
