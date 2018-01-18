@@ -12,11 +12,11 @@ the gap between the Government of Kenya reporting system and the PEPFAR reportin
 the level of in-country implementing partners who manage program specific data and forward it to national level where it is
 aggregated automatically by United States of America Government (USG) program managers.
 
-Now, the JPHES platform supports both HIV and non-HIV indicator reporting, attribution of the indicators by partners, analysis
-and visualition of attributed.It provides Apps for maintaining the JPHES hierarchy, programs, user management and data push/pull.
+Now, the JPHES platform supports non-HIV indicator reporting, attribution of the indicators by partners, analysis
+and visualition of attributed.It has Apps for maintaining the JPHES hierarchy, programs, user management and data push/pull.
 
 Data for JPHES indicators already captured in the `National DHIS2 <https://hiskenya.org/>`_ is pulled routinely using an *API*
-based middleware between the two systems.The middleware also allows routine data exchange to *DATIM4U*.
+based middleware between the two systems.
 
 Why JPHES?
 ------------
