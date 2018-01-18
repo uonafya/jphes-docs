@@ -28,6 +28,7 @@ Presentations and Other Resources
 2. `PHES Resources (23-24) March 2017 Training <_static/resources/PHES_Resources_23_03_2017.zip>`_
 3. `PHES Review Presentation 23rd June 2017 <https://docs.google.com/presentation/d/1qrwFrKKdnhDN_pXnfemEIi9L3CqCIfrDoXC9cY-LF-g/pub?start=false&loop=false&delayms=3000>`_
 4.  `PHES-Training Program (18th and 19th Jan 2018) <_static/resources/PHES_Training_Timetable_18_and_19_Jan_2018.pdf>`_ 
+5.  `PHES-Training Presentation (18th and 19th Jan 2018) <_static/resources/PHES_Training_18_and_19_Jan_2018.pdf>`_ 
 
 
 
