@@ -38,10 +38,10 @@ PPR17(Q3) Reporting Status
 ----------------------------
 - `JPHES PRR17 Reporting Status <https://jphesportal.uonbi.ac.ke/api/sqlViews/exQkN15Mc6u/data.html+css>`_
 
-IPSL 2017 Q3
---------------
+IPSL
+-----------
 
-- `IPSL (Q3)- HTML View <https://jphesportal.uonbi.ac.ke/api/sqlViews/OmFVlTZfHTm/data.html+css>`_
-- `IPSL (Q3)- CSV <_static/resources/IPSL list_2017Q3.csv>`_
+- `IPSL (Latest)- HTML View <https://jphesportal.uonbi.ac.ke/api/sqlViews/OmFVlTZfHTm/data.html+css>`_
+- `IPSL (Latest 19 Jan 2018)- CSV <_static/resources/IPSL_list.csv>`_
 
 
