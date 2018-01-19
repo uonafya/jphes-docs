@@ -20,7 +20,6 @@ Reporting Guidelines
 2. `New Indicators Narrative - (Summarized May 2017) <https://docs.google.com/spreadsheets/d/1H5mC78PS0zCzWe0y-jQF5D7T1Aqr_4VtnSiln-cvBys/pubhtml>`_ 
 3. `New Indicators Narrative (Detailed May 2017) <_static/resources/Additional_Indicator_Narratives_23-06-2017.zip>`_ 
 
-
 Presentations and Other Resources
 -----------------------------------
 
@@ -30,6 +29,7 @@ Presentations and Other Resources
 4.  `PHES-Training Program (18th and 19th Jan 2018) <_static/resources/PHES_Training_Timetable_18_and_19_Jan_2018.pdf>`_ 
 5.  `PHES-Training Presentation (18th and 19th Jan 2018) <_static/resources/PHES_Training_18_and_19_Jan_2018.pdf>`_ 
 6.  `Online Learning <http://elearningtest.healthit.uonbi.ac.ke>`_ 
+7. `IPSL Template (19th Jan 2019) <_static/resources/PHES_Resources_19_01_2018.zip>`_ 
 
 
 
