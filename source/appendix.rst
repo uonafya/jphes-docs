@@ -42,7 +42,7 @@ Reporting Status Monitor
 IPSL
 -----------
 
-- `IPSL (Latest 19 Jan 2018)- HTML View <https://jphesportal.uonbi.ac.ke/api/sqlViews/OmFVlTZfHTm/data.html+css>`_
-- `IPSL (Latest 19 Jan 2018)- CSV <_static/resources/IPSL_list.csv>`_
+- `IPSL (Latest 23rd April 2018)- HTML View <https://jphesportal.uonbi.ac.ke/api/sqlViews/OmFVlTZfHTm/data.html+css>`_
+- `IPSL (Latest 23rd April 2018)- CSV <_static/resources/IPSL_list-2018Q2.csv>`_
 
 
