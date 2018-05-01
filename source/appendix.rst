@@ -33,11 +33,10 @@ Presentations and Other Resources
 7. `IPSL Template (19th Jan 2019) <_static/resources/PHES_Resources_19_01_2018.zip>`_ 
 
 
-
-
-Reporting Status Monitor
-----------------------------
+Reporting Status Monitor & Data Approval 
+-------------------------------------------
 - `Reporting Status <https://jphesportal.uonbi.ac.ke/api/sqlViews/exQkN15Mc6u/data.html+css>`_
+- `Data Approval Status <https://jphesportal.uonbi.ac.ke/api/sqlViews/cMCpWnj2sbd/data.html+css>`_
 
 IPSL
 -----------
