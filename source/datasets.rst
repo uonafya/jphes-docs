@@ -16,15 +16,15 @@ National/Mechanism Level
 County Level
 -------------
 * County Performance(Nutrition, MCH ,WASH)  - Rev. 2018
+
+Sub-County Level
+-----------------
+* Sub-County Performance(FP, Nutrition, MCH, WASH) - Rev. 2018
 * Family Planning  Target - Rev. 2018
 * Malaria Target
 * Maternal and Child Health Target - Rev. 2018
 * Nutrition Target - Rev. 2018
 * WASH Target - Rev. 2018
-
-Sub-County Level
------------------
-* Sub-County Performance(FP, Nutrition, MCH, WASH) - Rev. 2018
 
 Ward Level
 ----------
