@@ -42,6 +42,6 @@ IPSL
 -----------
 
 - `IPSL (Latest 5th July 2018)- HTML View <https://jphesportal.uonbi.ac.ke/api/sqlViews/OmFVlTZfHTm/data.html+css>`_
-- `IPSL (Latest 5th July 2018)- CSV <_static/resources/IPSL list_2018Q3.csv>`_
+- `IPSL (Latest 5th July 2018)- CSV <_static/resources/IPSL_list_2018Q3.csv>`_
 
 
