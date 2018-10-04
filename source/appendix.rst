@@ -32,6 +32,12 @@ Presentations and Other Resources
 6.  `Online Learning <http://elearningtest.healthit.uonbi.ac.ke>`_ 
 7. `IPSL Template (19th Jan 2019) <_static/resources/PHES_Resources_19_01_2018.zip>`_ 
 
+Data Import API
+---------------------
+
+- `JPHES Data Import API Tutorial (PDF) <_static/resources/JPHES_API_For_DataMapping_&_Import.pdf>`_
+- `Data Import Template and Sample(XLSX) <_static/resources/mechnism_dataimport_csv_example.xlsx>`_
+
 
 Reporting Status Monitor & Data Approval 
 -------------------------------------------
