@@ -47,7 +47,7 @@ Reporting Status Monitor & Data Approval
 IPSL
 -----------
 
-- `IPSL (Latest 5th July 2018)- HTML View <https://jphesportal.uonbi.ac.ke/api/sqlViews/OmFVlTZfHTm/data.html+css>`_
-- `IPSL (Latest 5th July 2018)- CSV <_static/resources/IPSL_list_2018Q3.csv>`_
+- `IPSL (Latest 18th Oct 2018)- HTML View <https://jphesportal.uonbi.ac.ke/api/sqlViews/OmFVlTZfHTm/data.html+css>`_
+- `IPSL (Latest 18th Oct 2018)- CSV <_static/resources/IPSL2018Q4.csv>`_
 
 
