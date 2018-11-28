@@ -31,6 +31,7 @@ Presentations and Other Resources
 5.  `PHES-Training Presentation (18th and 19th Jan 2018) <_static/resources/PHES_Training_18_and_19_Jan_2018.pdf>`_ 
 6.  `Online Learning <http://elearningtest.healthit.uonbi.ac.ke>`_ 
 7. `IPSL Template (19th Jan 2019) <_static/resources/PHES_Resources_19_01_2018.zip>`_ 
+8. _`Family Health APR Meeting-JPHES Presentation(27th and 28th Nov 2018)- <https://docs.google.com/presentation/d/e/2PACX-1vRuG8x7Bn2YjkwaxvX6J_rfo9Q2Uv57M19wF_SC2T6qNM5XdjosYP3B2z8HH-g5huNcFzqzJDKWtOei/pub?start=false&loop=false&delayms=3000>`_
 
 Data Import API
 ---------------------
