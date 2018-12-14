@@ -10,8 +10,8 @@ Abbreviations
 - **DHIS2** - District Health Information System Version 2.
 - **HIV** - Human Immunodeficiency Virus.
 - **IPs** - Implementing Partners.
-- **IPSL­** - Implementing Partners Support List.
-- **KePMS­** - Kenya HIV/AIDS Program Monitoring System.
+- **IPSL** - Implementing Partners Site List.
+- **KePMS** - Kenya HIV/AIDS Program Monitoring System.
 - **MoH** - Ministry of Health.
 - **PEPFAR**-President's Emergency Plan for AIDS Relief.
 
