@@ -21,6 +21,26 @@ Reporting Guidelines
 3. `Indicators Narrative (Detailed Rev. May 2017) <_static/resources/Additional_Indicator_Narratives_23-06-2017.zip>`_ 
 4. `Indicator Narrative (Rev. March 2018 - Latest) <https://docs.google.com/spreadsheets/d/e/2PACX-1vSmk0FDE5i_ZvCULIcBHaMN7vy6KS8MxIsnRDJ9tQHtHa-p-J4JguApAxXWgFgkRDxJaFP361MtXhSk/pubhtml>`_ 
 
+Reporting Timelines
+-----------------------
+
++-------------------------------------+----------------------------------------------+
+| **Activity**                        | **Period**                                   | 
++=====================================+==============================================+
+| Performance Data Entry              | 5th - 18th of Every End of Quarter           | 
++-------------------------------------+----------------------------------------------+
+| KHIS-PHES Data Pull and Attribution | 18th of Every End of Quarter                 |
++-------------------------------------+----------------------------------------------+
+| Narrative Reporting                 | 19th-22nd of Every End of Quarter            |
++-------------------------------------+----------------------------------------------+
+| USAID Data Review and Clarifications| 22nd-30th of Every End of Quarter            | 
++-------------------------------------+----------------------------------------------+
+| Data Submission-(Approval)          | 30th of Every End of Quarter                 | 
++-------------------------------------+----------------------------------------------+
+| Reporting Closure                   | 30th of Every End of Quarter                 | 
++-------------------------------------+----------------------------------------------+
+
+
 Presentations and Other Resources
 -----------------------------------
 
@@ -48,7 +68,7 @@ Reporting Status Monitor & Data Approval
 IPSL
 -----------
 
-- `IPSL 2019 Q2(Latest 15th Jan 2019)- HTML View <https://jphesportal.uonbi.ac.ke/api/sqlViews/OmFVlTZfHTm/data.html+css>`_
-- `IPSL 2019 Q2(Latest 15th Jan 2019)- CSV <_static/resources/IPSL2019Q2.csv>`_
+- `IPSL 2019 Q3(Latest *18th July 2019*)- HTML View <https://jphesportal.uonbi.ac.ke/api/sqlViews/OmFVlTZfHTm/data.html+css>`_
+- `IPSL 2019 Q3(Latest *18th July 2019*)- CSV <_static/resources/IPSL_2019Q3.csv>`_
 
 
