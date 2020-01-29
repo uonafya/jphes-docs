@@ -16,10 +16,10 @@ System References
 Reporting Guidelines
 ---------------------
 
-1. `Indicator Narrative Revision (23 March 2017) <https://docs.google.com/spreadsheets/d/1JKF5EyGLtTqIKKlYB3kQbANr4Sp3dtL4ZZ1PDaqlHkM/pubhtml>`_
-2. `Indicators Narrative - (Summarized Rev. May 2017) <https://docs.google.com/spreadsheets/d/1H5mC78PS0zCzWe0y-jQF5D7T1Aqr_4VtnSiln-cvBys/pubhtml>`_ 
-3. `Indicators Narrative (Detailed Rev. May 2017) <_static/resources/Additional_Indicator_Narratives_23-06-2017.zip>`_ 
-4. `Indicator Narrative (Rev. March 2018 - Latest) <https://docs.google.com/spreadsheets/d/e/2PACX-1vSmk0FDE5i_ZvCULIcBHaMN7vy6KS8MxIsnRDJ9tQHtHa-p-J4JguApAxXWgFgkRDxJaFP361MtXhSk/pubhtml>`_ 
+1. `Indicator Narrative Revision (23 March 2017) **Archived** <https://docs.google.com/spreadsheets/d/1JKF5EyGLtTqIKKlYB3kQbANr4Sp3dtL4ZZ1PDaqlHkM/pubhtml>`_
+2. `Indicators Narrative - (Summarized Rev. May 2017) **Archived** <https://docs.google.com/spreadsheets/d/1H5mC78PS0zCzWe0y-jQF5D7T1Aqr_4VtnSiln-cvBys/pubhtml>`_ 
+3. `Indicators Narrative (Detailed Rev. May 2017) **Archived**  <_static/resources/Additional_Indicator_Narratives_23-06-2017.zip>`_ 
+4. `Indicator Narrative (Rev. March 2018 - Latest(Updated 28/01/2020)) <https://docs.google.com/spreadsheets/d/e/2PACX-1vRzrpWu4youfd4-Dszi6Y_1rlYoFdtXFZUm726ME4gy6vQHF9SD2haYLVTloIvwiQoea2sxfZvTO2wg/pubhtml?gid=1047895924&single=true>`_ 
 5. `Average FP Stockout Rate_PPR Indicator Brief (22/11/2019) <_static/resources/Average FP Stockout Rate_PPR Indicator Brief_Final.pdf>`_ **(New)**
 
 Reporting Timelines
