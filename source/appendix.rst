@@ -21,7 +21,8 @@ Reporting Guidelines
 3. `Indicators Narrative (Detailed Rev. May2017) <_static/resources/Additional_Indicator_Narratives_23-06-2017.zip>`_ **(Archived)**
 4. `FH Indicator and Data Source List (Rev. March2018 - Latest) <https://docs.google.com/spreadsheets/d/e/2PACX-1vRzrpWu4youfd4-Dszi6Y_1rlYoFdtXFZUm726ME4gy6vQHF9SD2haYLVTloIvwiQoea2sxfZvTO2wg/pubhtml?gid=1047895924&single=true>`_ **(Updated 28/01/2020)**
 5. `Average FP Stockout Rate_PPR Indicator Brief (22/11/2019) <_static/resources/Average FP Stockout Rate_PPR Indicator Brief_Final.pdf>`_ **(New)**
-6. `FH Indicator and Data Source Presentation (Rev. August2021 - Latest) <https://docs.google.com/presentation/d/e/2PACX-1vSmWAS9lQnMPUyUX5cuJg0ReHUheV0YSfikXGArjmfRjZ9Nrs_8WDp_axefSiy5RA/pub?start=false&loop=false&delayms=60000>`_ **(Updated 17/08/2021)**
+6. `FH Indicator, Data Source and Description (17/08/2021 - Latest) <https://docs.google.com/spreadsheets/d/e/2PACX-1vT-sJ6JqlaayycoHCYkZSWa3ln-NVON0mtFbHD2qNQyR07Y1TE6EEsO3mLBhKbXVwvzkh108_nXwf0K/pubhtml>`_ **(New)**
+7. `FH Indicator and Data Source Presentation (Rev. August2021 - Latest) <https://docs.google.com/presentation/d/e/2PACX-1vSmWAS9lQnMPUyUX5cuJg0ReHUheV0YSfikXGArjmfRjZ9Nrs_8WDp_axefSiy5RA/pub?start=false&loop=false&delayms=60000>`_ **(New)**
 
 Reporting Timelines
 -----------------------
@@ -54,7 +55,7 @@ Presentations and Other Resources
 6.  `Online Learning <http://elearningtest.healthit.uonbi.ac.ke>`_ 
 7. `IPSL Template (19th Jan 2019) <_static/resources/PHES_Resources_19_01_2018.zip>`_ 
 8. `Family Health APR Meeting-JPHES Presentation(27th and 28th Nov 2018)- <https://docs.google.com/presentation/d/e/2PACX-1vRuG8x7Bn2YjkwaxvX6J_rfo9Q2Uv57M19wF_SC2T6qNM5XdjosYP3B2z8HH-g5huNcFzqzJDKWtOei/pub?start=false&loop=false&delayms=3000>`_
-9. `FH Indicator, Indicator Descriptions and Data Source Presentation (Rev. August2021 - Latest) <https://docs.google.com/presentation/d/e/2PACX-1vSmWAS9lQnMPUyUX5cuJg0ReHUheV0YSfikXGArjmfRjZ9Nrs_8WDp_axefSiy5RA/pub?start=false&loop=false&delayms=60000>`_
+9. `FH Indicator, Indicator Descriptions and Data Source Presentation (August2021 - Latest) <https://docs.google.com/presentation/d/e/2PACX-1vSmWAS9lQnMPUyUX5cuJg0ReHUheV0YSfikXGArjmfRjZ9Nrs_8WDp_axefSiy5RA/pub?start=false&loop=false&delayms=60000>`_
 
 
 
