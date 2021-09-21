@@ -56,6 +56,7 @@ Presentations and Other Resources
 7. `IPSL Template (19th Jan 2019) <_static/resources/PHES_Resources_19_01_2018.zip>`_ 
 8. `Family Health APR Meeting-JPHES Presentation(27th and 28th Nov 2018)- <https://docs.google.com/presentation/d/e/2PACX-1vRuG8x7Bn2YjkwaxvX6J_rfo9Q2Uv57M19wF_SC2T6qNM5XdjosYP3B2z8HH-g5huNcFzqzJDKWtOei/pub?start=false&loop=false&delayms=3000>`_
 9. `FH Indicator, Indicator Descriptions and Data Source Presentation (August2021 - Latest) <https://docs.google.com/presentation/d/e/2PACX-1vSmWAS9lQnMPUyUX5cuJg0ReHUheV0YSfikXGArjmfRjZ9Nrs_8WDp_axefSiy5RA/pub?start=false&loop=false&delayms=60000>`_
+10. `PHES Important Documents shared in 2021 <https://drive.google.com/drive/folders/1Wavn7YZeNOxmLxgqqOQqzT3d3OYCcYBr?usp=sharing>`_
 
 
 
