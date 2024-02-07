@@ -30,17 +30,17 @@ Reporting Timelines
 +-------------------------------------+----------------------------------------------+
 | **Activity**                        | **Period**                                   | 
 +=====================================+==============================================+
-| Performance Data Entry              | 5th - 18th of Every End of Quarter           | 
+| Performance Data Entry              | 5th - 18th of Every End of Month           | 
 +-------------------------------------+----------------------------------------------+
-| KHIS-PHES Data Pull and Attribution | 18th of Every End of Quarter                 |
+| KHIS-PHES Data Pull and Attribution | 18th of Every End of Month                 |
 +-------------------------------------+----------------------------------------------+
-| Narrative Reporting                 | 19th-22nd of Every End of Quarter            |
+| Narrative Reporting                 | 19th-22nd of Every End of Month            |
 +-------------------------------------+----------------------------------------------+
-| USAID Data Review and Clarifications| 22nd-30th of Every End of Quarter            | 
+| USAID Data Review and Clarifications| 22nd-30th of Every End of Month             | 
 +-------------------------------------+----------------------------------------------+
-| Data Submission-(Approval)          | 30th of Every End of Quarter                 | 
+| Data Submission-(Approval)          | 30th of Every End of Month                  | 
 +-------------------------------------+----------------------------------------------+
-| Reporting Closure                   | 30th of Every End of Quarter                 | 
+| Reporting Closure                   | 30th of Every End of Month                  | 
 +-------------------------------------+----------------------------------------------+
 
 
