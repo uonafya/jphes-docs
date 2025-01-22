@@ -6,7 +6,7 @@ To Access JPHES Support
 -------------------------
 There are two ways of accessing the *JPHES Servicedesk portal*:
 
-1. On the `JPHES landing page <http://jphesportal.uonbi.ac.ke>`_ , click on the JPHES support icon.
+1. On the `JPHES landing page <http://jphes.uonbi.ac.ke>`_ , click on the JPHES support icon.
 2. When logged in JPHES Portal, search for *JPHES Support App* and click on it.
 
 .. figure::  _static/images/jphes-apps2.png
