@@ -79,7 +79,7 @@ exclude_patterns = []
 pygments_style = 'sphinx'
 
 # If true, `todo` and `todoList` produce output, else they produce nothing.
-# todo_include_todos = False
+todo_include_todos = False
 
 
 # -- Options for HTML output ----------------------------------------------
@@ -130,11 +130,6 @@ html_theme_options = {
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
-
-# static css files
-html_css_files = [
-    'css/custom.css',
-]
 
 
 # -- Options for HTMLHelp output ------------------------------------------

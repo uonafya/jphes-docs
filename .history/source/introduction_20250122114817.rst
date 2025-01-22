@@ -4,7 +4,7 @@ Introduction
 Background
 ------------
 
-`JPHES <http://jphesportal.uonbi.ac.ke>`_ is a web-based open source solution customized for *PEPFAR Kenya* partner reporting a
+`JPHES <http://jphes.uonbi.ac.ke>`_ is a web-based open source solution customized for *PEPFAR Kenya* partner reporting a
 nd data attribution built on `DHIS2 <https://dhis2.org>`_.The platform replaces `KePMS <http://snisnet.net/KePMS.php>`_
 reporting system which was a standalone *Microsoft Access* based indicator monitoring database for use in the management,
 monitoring and evaluation of HIV/AIDS treatment and prevention programs supported by PEPFAR.It was developed in 2006 to plug

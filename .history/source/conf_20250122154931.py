@@ -35,7 +35,7 @@ import sphinx_rtd_theme
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = ['sphinx.ext.autodoc',
-    'sphinx.ext.napoleon', 'sphinx.ext.intersphinx']
+    'sphinx.ext.intersphinx']
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -79,7 +79,7 @@ exclude_patterns = []
 pygments_style = 'sphinx'
 
 # If true, `todo` and `todoList` produce output, else they produce nothing.
-# todo_include_todos = False
+todo_include_todos = False
 
 
 # -- Options for HTML output ----------------------------------------------
@@ -131,11 +131,6 @@ html_theme_options = {
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 
-# static css files
-html_css_files = [
-    'css/custom.css',
-]
-
 
 # -- Options for HTMLHelp output ------------------------------------------
 
@@ -145,7 +140,7 @@ htmlhelp_basename = 'jphesdoc'
 
 # -- Options for LaTeX output ---------------------------------------------
 
-# latex_elements = {
+latex_elements = {
     # The paper size ('letterpaper' or 'a4paper').
     #
     # 'papersize': 'letterpaper',
@@ -161,7 +156,7 @@ htmlhelp_basename = 'jphesdoc'
     # Latex figure (float) alignment
     #
     # 'figure_align': 'htbp',
-# }
+}
 
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title,

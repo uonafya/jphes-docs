@@ -27,30 +27,30 @@ Reporting Guidelines
 Reporting Timelines
 -----------------------
 
-+-------------------------------------+----------------------------------------------+----------------------------------------------+
-| **Activity**                        | **Timeline**                                 | **Comment**                                  |
-+=====================================+==============================================+==============================================+
-| KHIS Reporting                      | 5th- 14th of Every Month                     | Partner responsibility?                      |
-+-------------------------------------+----------------------------------------------+----------------------------------------------+
-| Data Entry (Performance) & Targets  | 5th -18th of Every Month                     | Generated from KHIS e.g. CYP, contraceptive  |
-| timelines                           |                                              | stockoutTargets preloaded in JPHES           |
-+-------------------------------------+----------------------------------------------+----------------------------------------------+
-| Validation and cleaning of data     | By 20th of the month                         | System restricted - changes in JPHES         |
-| attributed in JPHES                 |                                              |                                              |
-+-------------------------------------+----------------------------------------------+----------------------------------------------+
-| Narrative Reporting                 | 19th -22nd of Every End of Month             | Harmonized with PPR/DIS                      |
-+-------------------------------------+----------------------------------------------+----------------------------------------------+
-| USAID Data Review and Clarifications| 22nd-30th of Every End of Month              | No entry/changes                             |
-+-------------------------------------+----------------------------------------------+----------------------------------------------+
-| Quarterly data quality assessment   | By 15th of the month following the end of    |  System (JPHES) open for revisions based on  |
-| and cleaning by IPs/counties        | the quarter.                                 |  DQA/verification                            |
-+-------------------------------------+----------------------------------------------+----------------------------------------------+
-| Data Submission-(Approval)          | PPR: 30th of month following end of every    | Data calendar:                               |
-|                                     | quarter **NB**: APR - Deadline (2of FY Oct)  | -Monthly  -Quarterly  -SAPR    -APR          |
-+-------------------------------------+----------------------------------------------+----------------------------------------------+
-| Reporting Closure:                  | 30th of Every End of Month                   |                                              |
-| until the next reporting cycle      |                                              |                                              |
-+-------------------------------------+----------------------------------------------+----------------------------------------------+
++-------------------------------------+----------------------------------------------++----------------------------------------------+
+| **Activity**                        | **Timeline**                                 | **Comment**                                  ||
++=====================================+==============================================++==============================================+
+| KHIS Reporting                      | 5th- 14th of Every Month                     | Partner responsibility?                      ||
++-------------------------------------+----------------------------------------------++----------------------------------------------+
+| Data Entry (Performance) & Targets  | 5th -18th of Every Month                     | Generated from KHIS e.g. CYP, contraceptive  ||
+| timelines                           |                                              | stockoutTargets preloaded in JPHES           ||
++-------------------------------------+----------------------------------------------++----------------------------------------------+
+| Validation and cleaning of data     | By 20th of the month                         | System restricted - changes in JPHES         ||
+| attributed in JPHES                 |                                              |                                              ||
++-------------------------------------+----------------------------------------------++----------------------------------------------+
+| Narrative Reporting                 | 19th -22nd of Every End of Month             | Harmonized with PPR/DIS                      ||
++-------------------------------------+----------------------------------------------++----------------------------------------------+
+| USAID Data Review and Clarifications| 22nd-30th of Every End of Month              | No entry/changes                             ||
++-------------------------------------+----------------------------------------------++----------------------------------------------+
+| Quarterly data quality assessment   | By 15th of the month following the end of    |  System (JPHES) open for revisions based on  ||
+| and cleaning by IPs/counties        | the quarter.                                 |  DQA/verification                            ||
++-------------------------------------+----------------------------------------------++----------------------------------------------+
+| Data Submission-(Approval)          | PPR: 30th of month following end of every    | Data calendar:                               ||
+|                                     | quarter **NB**: APR - Deadline (2of FY Oct)  | -Monthly  -Quarterly  -SAPR    -APR          ||
++-------------------------------------+----------------------------------------------++----------------------------------------------+
+| Reporting Closure:                  | 30th of Every End of Month                   |                                               ||
+| until the next reporting cycle      |                                              |                                               ||
++-------------------------------------+----------------------------------------------++----------------------------------------------+
 
 Presentations and Other Resources
 -----------------------------------
